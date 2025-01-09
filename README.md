@@ -1,1 +1,1 @@
-# BlogVoyage
+# Trivio
